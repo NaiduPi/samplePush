@@ -16,7 +16,7 @@ namespace LinqExamples
         public static List<Student> GetStudents()
         {
             List<Student> studentlist = new List<Student>() {
-    new Student() { StudentID = 1, StudentName = "John", Age = 18, StandardID = 1 } ,
+    new Student() { StudentID = 1, StudentName = "John1", Age = 18, StandardID = 1 } ,
     new Student() { StudentID = 2, StudentName = "Steve",  Age = 21, StandardID = 1 } ,
     new Student() { StudentID = 3, StudentName = "Bill",  Age = 18, StandardID = 2 } ,
     new Student() { StudentID = 4, StudentName = "Ram" , Age = 20, StandardID = 2 } ,
